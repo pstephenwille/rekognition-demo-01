@@ -1,0 +1,16 @@
+{
+  "name": "playing-cards",
+  "version": "1.0.0",
+  "description": "Playing Cards Detection\r ========================",
+  "main": "resize-images.js",
+  "scripts": {
+    "start": "node resize-images.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.25.0",
+    "sharp": "^0.33.4"
+  }
+}
